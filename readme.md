@@ -13,7 +13,7 @@ The course covers basic to advanced topics in programming, structured around a s
 
 Below is the directory structure of the course material, organized by lecture topics:
 
-📁 <u>Lecture01 - Hello World + Variables</u>
+📁 `Lecture01 - Hello World + Variables`
   - `00-hello.c`
   - `01-vars.c`
 
