@@ -28,6 +28,27 @@ Below is the directory structure of the course material, organized by lecture to
   - `08-approx.c`
   - `09-compound-assignemtns.c`
 
+📁 `Lecture03 - Control Structures + Complex Data Types + Pointers`
+  - `10-selections-basics.c`
+  - `11-selections-switch.c`
+  - `12-loops-basics.c`
+  - `13-loops-break-continue.c`
+  - `14-struct-basics.c`
+  - `15-struct-typedef.c`
+  - `16-arrays-basics.c`
+  - `17-arrays-define.c`
+  - `18-arrays-multidim.c`
+  - `19-arrays-struct.c`
+  - `20-pointers-basics.c`
+  - `21-pointers-address.c`
+  - `22-pointers-structs.c`
+  - `23-pointers-dereference.c`
+  - `24-pointers-pointers.c`
+  - `25-pointers-arrays-pointers.c`
+  - `26-pointers-null.c`
+  - `27-pointers-linkedlist.c`
+  - `28-pointers-pitfalls.c`
+
 
 ## How to Use This Repository
 
