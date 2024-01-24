@@ -49,6 +49,31 @@ Below is the directory structure of the course material, organized by lecture to
   - `27-pointers-linkedlist.c`
   - `28-pointers-pitfalls.c`
 
+📁 `Lecture04 - Strings, Functions, Input, Malloc, Header files`
+  - `29-pointers-arithmetic.c`
+  - `30-strings-basics.c`
+  - `31-strings-concat.c`
+  - `32-strings-compare.c`
+  - `33-strings-length.c`
+  - `34-strings-substring.c`
+  - `35-strings-copystr.c`
+  - `36-strings-casting.c`
+  - `37-functions-prototype.c`
+  - `38-functions-ref-vs-val.c`
+  - `39-functions-swap.c`
+  - `40-functions-const.c`
+  - `41-functions-static.c`
+  - `42-functions-funptrs.c`
+  - `43-input-numbers.c`
+  - `44-input-strings.c`
+  - `45-heapmemory-basics.c`
+  - `46-heapmemory-arrays.c`
+  - `47-heapmemory-strings.c`
+  - `48-lib-math.c`
+  - `49-multi-cfiles-main.c`
+  - `49-multi-cfiles.c`
+  - `49-multi-cfiles.h`
+
 
 ## How to Use This Repository
 
