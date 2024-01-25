@@ -10,7 +10,14 @@ The course covers basic to advanced topics in programming, structured around a s
 
 
 ## Repository Structure
+This repo contains a Labs directory and Lectures directory.
 
+### Labs
+📁 `Lab00 - Introduction to C & Unix`
+  - `Lab00-Introlab.pdf`
+  - `introlab-handout.tar`
+
+### Lectures
 Below is the directory structure of the course material, organized by lecture topics:
 
 📁 `Lecture01 - Hello World + Variables`
