@@ -13,9 +13,13 @@ The course covers basic to advanced topics in programming, structured around a s
 This repo contains a Labs directory and Lectures directory.
 
 ### Labs
-📁 `Lab00 - Introduction to C & Unix`
-  - `Lab00-Introlab.pdf`
+📁 `Lab0 - Introduction to C & Unix`
+  - `IntroLab.pdf`
   - `introlab-handout.tar`
+
+📁 `Lab1 - Data Lab: Manipulating Bits in C `
+  - `DataLab.pdf`
+  - `datalab-handout.tar`
 
 ### Lectures
 Below is the directory structure of the course material, organized by lecture topics:
@@ -80,6 +84,32 @@ Below is the directory structure of the course material, organized by lecture to
   - `49-multi-cfiles-main.c`
   - `49-multi-cfiles.c`
   - `49-multi-cfiles.h`
+
+📁 `Lecture05 - Student Challenge`
+  - `ToDoList.java`
+  - `readme.md`
+
+📁 `Lecture06 - Lifecycle of ./hello`
+  - `01-showbytes-data.c`
+  - `02-showbytes-code.c`
+  - `02-showbytes-code.sh`
+
+📁 `Lecture07 - Data = Bits + Context`
+  - `00-audio-data-demo.py`
+  - `00-image-data-demo.py`
+
+📁 `Lecture08 - Bits: Operators, Vectors, Sets`
+  - `00-audio-data-demo.py`
+  - `00-image-data-demo.py`
+  - `01-showbytes-data.c`
+  - `02-showbytes-code.c`
+  - `02-showbytes-code.sh`
+  - `03-show-endian.c`
+  - `04-BitwiseOps.c`
+  - `05-Masking.c`
+  - `06-Logical-Ops.c`
+  - `07-Shift-Ops.c`
+
 
 
 ## How to Use This Repository
