@@ -10,7 +10,12 @@ The course covers basic to advanced topics in programming, structured around a s
 
 
 ## Repository Structure
-This repo contains a Labs directory and Lectures directory.
+This repo contains a Projects, Labs, & Lectures directories.
+
+### Projects
+📁 `01 - Java to C`
+
+📁 `02 - Shell Applications Demo `
 
 ### Labs
 📁 `Lab0 - Introduction to C & Unix`
