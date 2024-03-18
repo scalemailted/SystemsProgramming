@@ -120,7 +120,7 @@ Below is the directory structure of the course material, organized by lecture to
 
 📁 `Lecture13 - Floating Points`
 
-📁 `Lecture14 - Macine Encoding & Formats`
+📁 `Lecture14 - Macine Level - Encoding & Formats`
 
 📁 `Lecture15 - Machine Level - Data Operators & Control Logic`
 
