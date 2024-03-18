@@ -110,6 +110,22 @@ Below is the directory structure of the course material, organized by lecture to
   - `06-Logical-Ops.c`
   - `07-Shift-Ops.c`
 
+📁 `Lecture09 - Integer Encodings`
+
+📁 `Lecture10 - Integer Operators`
+
+📁 `Lecture11 - Data Lab`
+
+📁 `Lecture12 - Floating Points`
+
+📁 `Lecture13 - Floating Points`
+
+📁 `Lecture14 - Macine Encoding & Formats`
+
+📁 `Lecture15 - Machine Level - Data Operators & Control Logic`
+
+
+
 
 
 ## How to Use This Repository
