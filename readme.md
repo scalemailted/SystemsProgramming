@@ -26,6 +26,13 @@ This repo contains a Projects, Labs, & Lectures directories.
   - `DataLab.pdf`
   - `datalab-handout.tar`
 
+📁 `Lab2 - Bomb Lab: Defusing a Binary Bomb `
+  - `BombLab.pdf`
+
+📁 `Lab3 - Shell Lab: Writing your own Unix Shell `
+  - `ShellLab.pdf`
+  - `shlab-handout.tar`
+
 ### Lectures
 Below is the directory structure of the course material, organized by lecture topics:
 
@@ -128,6 +135,7 @@ Below is the directory structure of the course material, organized by lecture to
 📁 `Lecture14 - Macine Level - Encoding & Formats`
 
 📁 `Lecture15 - Machine Level - Data Operators & Control Logic`
+
 
 
 
